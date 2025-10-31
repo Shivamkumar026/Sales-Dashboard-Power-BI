@@ -31,4 +31,4 @@ Ideal for tracking performance, visualizing business data, and presenting analyt
 
 Screenshots / Demos
 
-Show what the dashboard looks like - ![Alt text]()
+Show what the dashboard looks like - ![Alt text](https://github.com/Shivamkumar026/Sales-Dashboard-Power-BI/blob/master/snapshot%20of%20sales%20dashboard.png)
