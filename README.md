@@ -27,3 +27,8 @@ This repository contains a Power BI report (Data.pbix) that provides detailed, i
 🚀 Purpose:
 
 Ideal for tracking performance, visualizing business data, and presenting analytical summaries in an engaging, interactive format.
+
+
+Screenshots / Demos
+
+Show what the dashboard looks like - ![Alt text]()
